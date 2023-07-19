@@ -39,10 +39,9 @@ The XGBoost model achieved the highest AUROC score and F1 score, indicating its 
 
 ## Repository Structure
 
-- `data/`: Contains the dataset used for training and evaluation.
+- `insurance dataset.csv`: Contains the dataset used for training and evaluation.
 - `notebooks/`: Google colab demonstrating the data preprocessing, model training, and evaluation steps.
 - `models/`: Saved model files and related artifacts.
-- `src/`: Source code for data preprocessing, model fitting, and evaluation.
 - `README.md`: This file, providing an overview of the repository.
 
 ## Usage

@@ -19,7 +19,7 @@ The dataset used for training and evaluation consists of the following features:
 - Prev_outcome: Outcome of the previous marketing campaign
 
 ## Target variable:
--y : has the client bought the product or not? denoted by yes or no
+- y : has the client bought the product or not? denoted by yes or no
 
 ## Nature of the dataset:
 The dataset is imbalanced, and to address this issue, the SMOTE-NN (Synthetic Minority Over-sampling Technique for Nominal and Numeric) method was used to balance the dataset.
@@ -59,7 +59,7 @@ Please refer to the individual notebooks and source code files for more detailed
 
 ## License
 
-This project is licensed under the GNU License. You can find more information in the `LICENSE` file.
+This project is licensed under the GPL License. You can find more information in the `LICENSE` file.
 
 Feel free to contribute, raise issues, or submit pull requests if you have any improvements or suggestions for this project.
 
